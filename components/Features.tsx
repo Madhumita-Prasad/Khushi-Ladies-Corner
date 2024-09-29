@@ -1,4 +1,4 @@
-import { Calendar, Star, User } from "lucide-react"; // Imported icons from Lucide
+import {  Star, User } from "lucide-react"; // Imported icons from Lucide
 import React from "react";
 
 const Features = () => {
